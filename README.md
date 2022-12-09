@@ -1,2 +1,1 @@
-# cv4
-TinDawg
+TinDog Starting Files
